@@ -11,7 +11,7 @@
   <key>CFBundleInfoDictionaryVersion</key>
   <string>6.0</string>
   <key>CFBundleName</key>
-  <string>Alacritty</string>
+  <string>AlacrittyHotWindow</string>
   <key>CFBundlePackageType</key>
   <string>APPL</string>
   <key>CFBundleShortVersionString</key>
@@ -31,7 +31,7 @@
   <key>NSSupportsAutomaticGraphicsSwitching</key>
   <true/>
   <key>CFBundleDisplayName</key>
-  <string>Alacritty</string>
+  <string>AlacrittyHotWindow</string>
   <key>NSRequiresAquaSystemAppearance</key>
   <string>NO</string>
     <key>NSAppleEventsUsageDescription</key>
